@@ -11,13 +11,13 @@
     <app.rive.runtime.kotlin.RiveAnimationView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:riveResource="@raw/sendnudes" />
+        app:riveResource="@raw/sendit" />
 
     <app.rive.runtime.kotlin.RiveAnimationView
         android:id="@+id/simple_state_machine"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:riveResource="@raw/sendnudes"
+        app:riveResource="@raw/sendit"
         app:riveStateMachine="button animation" />
 
 
